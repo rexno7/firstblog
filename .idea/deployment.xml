@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="Remote Interpreter Host" uploadOnCheckin="6ae0873c-38a3-4616-a6b8-b806fa248fa8">
+    <serverData>
+      <paths name="Remote Interpreter Host">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/blog" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="Remote Interpreter Host" />
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
+
